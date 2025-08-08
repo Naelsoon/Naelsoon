@@ -8,8 +8,8 @@ public class NaelsonAlbino {
     String foco = "Estudante e Desenvolvedor Iniciante";
     String Local = "Senai-Anchieta";
 
-    String[] linguagens = {"Java", "JavaScript", ""};
-    String[] ferramentas = {"Vscode", "MySQL", "Git", ""};
+    String[] linguagens = {"Java", "JavaScript", "HTML, CSS "};
+    String[] ferramentas = {"Vscode", "MySQL", "Git", "Notion, Miro, Canva,  "};
 
     public void sobreMim() {
         System.out.println(" Apaixonado por tecnologia, criação de apps e resolução de problemas.");
