@@ -16,7 +16,7 @@ public class NaelsonAlbino {
         System.out.println(" Atualmente estudando Java e desenvolvendo aplicações com linguagem de marcação");
         System.out.println(" Em busca de estágio para aplicar meus conhecimentos na prática.");
     }
-
+}
 
 ```
 Onde me encontrar :
@@ -30,4 +30,4 @@ Onde me encontrar :
   <a href="https://www.instagram.com/eu.naelson/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-}
+
