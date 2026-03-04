@@ -1,15 +1,15 @@
 ```java
-// 👋 Olá, eu sou o Naelson Albino
+
 
 public class NaelsonAlbino {
 
     String nome = "Naelson Albino";
     String area = "Análise e Desenvolvimento de Sistemas";
-    String foco = "Estudante e Desenvolvedor Iniciante";
+    String foco = "Estudante e Desenvolvedor";
     String Local = "Senai-Anchieta";
 
-    String[] linguagens = {"Java", "JavaScript", "HTML, CSS "};
-    String[] ferramentas = {"Vscode", "MySQL", "Git", "Notion, Miro, Canva,  "};
+    String[] linguagens = {"Java", "JavaScript", "Linguagem de Marcação", "React", "SpringBoot", "MySQL"};
+    String[] ferramentas = {"Vscode", "intellij", "Git", "Notion","Figma" ,"Canva"};
 
     public void sobreMim() {
         System.out.println(" Apaixonado por tecnologia, criação de apps e resolução de problemas.");
